@@ -23,6 +23,7 @@ body {
   );
   -webkit-box-shadow: 0px 0px 15px 5px rgba(255, 255, 225, 0.75);
   -moz-box-shadow: 0px 0px 15px 5px rgba(255, 255, 225, 0.75);
+  -ms-box-shadow: 0px 0px 15px 5px rgba(255, 255, 225, 0.75);
   box-shadow: 0px 0px 15px 5px rgba(255, 255, 225, 0.75);
   border-radius: 15px;
   animation: animate 1.5s linear infinite;
